@@ -1,0 +1,46 @@
+.sect-1{
+    background: url('../img/background.svg');
+    background-color: #e4ad48;
+}
+.headerr-1{
+    margin-top: 16%;
+
+}
+.btn1{
+    width: 159px;
+    height: 50px;
+    border-width: 2PX;
+    background-color:#e4ad48 ;
+    color: white;
+}
+.btn1:hover{
+    background-color: white;
+    color: black;
+}
+.imgs-1{
+    width: 86%;
+    margin-top: 25%;
+    margin-left: 100%;
+
+}
+.imgs-2{
+    width:100%
+    
+
+}
+.para-1{
+    line-height: 2.2;
+    word-spacing: 7.7;
+    color: gray;
+}
+.foo{
+    text-decoration: none;
+    color: gray;
+    margin-left: 30px;
+}
+.foo:hover{
+    color: blue;
+}
+
+
+
